@@ -1,3 +1,17 @@
+# Quiz
+Site de quiz, feito com HTML, CSS, JavaScript, React, JSON, Node.js e Vite. 
+
+Comandos:
+
+npx create-vite@latest 
+    Project Name: quiz 
+    Framework React 
+    Variant JavaScript
+
+npm install
+
+npm run dev
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
