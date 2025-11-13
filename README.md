@@ -4,7 +4,7 @@ Site de quiz, feito com HTML, CSS, JavaScript, React, JSON, Node.js e Vite.
 Comandos:
 
 npx create-vite@latest 
-    Project Name: todo 
+    Project Name: quiz 
     Framework React 
     Variant JavaScript
 
